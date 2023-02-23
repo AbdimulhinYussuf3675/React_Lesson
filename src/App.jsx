@@ -1,5 +1,6 @@
 import { createRoot } from "react-dom/client";
 import Pet from "./Pet";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 const App = () => {
   <div>
